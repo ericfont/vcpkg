@@ -1,0 +1,9 @@
+{
+  "name": "serial",
+  "version-string": "1.2.1",
+  "homepage": "https://github.com/wjwwood/serial",
+  "description": "Cross-platform, Serial Port library written in C++",
+  "dependencies": [
+    "pthreads"
+  ]
+}
